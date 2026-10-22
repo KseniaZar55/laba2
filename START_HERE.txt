@@ -1,0 +1,9 @@
+CINÉ CLUB — ВЕРСИЯ ДЛЯ GITHUB PAGES
+
+1) Распакуй ZIP.
+2) Открой index.html в браузере или загрузи все файлы в корень GitHub-репозитория.
+3) Для GitHub Pages: Repository → Settings → Pages → Deploy from a branch → main → /(root) → Save.
+4) Открой опубликованный сайт и вставь свой OMDb API key в верхнюю панель.
+
+Ключ сохраняется в localStorage браузера и не вшит в исходные файлы.
+Полная инструкция — в README.md.
